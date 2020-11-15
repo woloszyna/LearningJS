@@ -1,0 +1,25 @@
+{
+  "name": "pageobjectmodeljs",
+  "version": "1.0.0",
+  "description": "Practice Project to learn, practice and Use Page Object model design patter for WebDriverJS",
+  "main": "index.js",
+  "dependencies": {
+    "chromedriver": "^86.0.0",
+    "geckodriver": "^1.20.0",
+    "selenium-webdriver": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woloszyna/pageObjectModelJS.git"
+  },
+  "author": "Albert Woloszyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woloszyna/pageObjectModelJS/issues"
+  },
+  "homepage": "https://github.com/woloszyna/pageObjectModelJS#readme"
+}
