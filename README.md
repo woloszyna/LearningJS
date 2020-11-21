@@ -1,7 +1,7 @@
 # pageObjectModelJS
 
 
-# <b>LEARNING PLATFORM: [PLEASE ADD]</b>
+# <b>LEARNING PLATFORM: http://www.thetestroom.com/webapp</b>
 ## <b>EXPERIMENTING AND PRACTICE PLATFORM: http://the-internet.herokuapp.com</b>
 
 
