@@ -1,4 +1,7 @@
-const home = require('./home');
+const { clickOnAdoptionLink } = require('./home');
 var homePage = require('./home');
+
 homePage.navigateToTestRoom();
-home.clickOnAdoptionLink();
+var adoptionpage = homePage.clickOnAdoptionLink();
+adoptionpage.getLionAvailability();
+homePage.tearDown();
