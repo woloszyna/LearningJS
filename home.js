@@ -9,6 +9,5 @@ class HomePage extends BasePage {
         //return a page by the use of return and using global keyword in the BasePage
         return require('./adoption');
     }
-
 }
 module.exports = new HomePage();
