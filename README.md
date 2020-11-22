@@ -3,6 +3,8 @@
 
 # <b>LEARNING PLATFORM: http://www.thetestroom.com/webapp</b>
 ## <b>EXPERIMENTING AND PRACTICE PLATFORM: http://the-internet.herokuapp.com</b>
+## <b>PROJECT PLATFORM:www.wp.pl</b>
+
 
 
 ## <b>INSTALLATION STEPS:</b>
@@ -23,7 +25,7 @@
 1. Learn basics of Page Object Model in JS
 2. Learnt about constructor
 
-## <b>15/11/2020:</b>
+## <b>21/11/2020:</b>
 1. Continue on learnign about Page Object Model WebdriverJS
 2. Learning about abstract Base Page
 3. Creating multiple page objects
@@ -32,6 +34,12 @@
     5.1. Creating a file
     5.2. module.exports = {...};
     5.3. Good Practices around property files and variables formatting
+
+## <b>22/11/2020:</b>
+1. Learnign about testing dropdowns
+2. Learnign about switching windows
+    2.1. Learn and practice the 'getAllWindowHandles' handler
+3. Attempt to create a simple WebdriverJS Test suite for the live project.
 
 
 ## <b>WHAT I STILL WANT TO LEARN</b>

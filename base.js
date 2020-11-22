@@ -5,7 +5,7 @@ var properties = require('./properties');
 class BasePage {
 
     constructor() {
-        global.driver = driver;
+        globalThis.driver = driver;
     }
 
     navigateToTestRoom() {

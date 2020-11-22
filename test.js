@@ -1,4 +1,4 @@
-const { clickOnAdoptionLink } = require('./home');
+var webdriver = require('selenium-webdriver');
 var homePage = require('./home');
 
 homePage.navigateToTestRoom();
