@@ -6,6 +6,6 @@ class AdoptionPage extends BasePage {
 
     getLionAvailability() {
         driver.findElement(By.css('#check_btn_01')).click();
-    }
-}
+    };
+};
 module.exports = new AdoptionPage();
